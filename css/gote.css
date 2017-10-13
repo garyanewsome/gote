@@ -1,0 +1,21 @@
+body {
+  background-color: #333333;
+  color: #FFFFFF; }
+
+.gote-container {
+  width: 640px;
+  margin: auto auto; }
+
+.gote {
+  margin: 16px;
+  padding: 8px;
+  width: 560px; }
+  .gote .button {
+    width: 160px;
+    height: 160px;
+    border: 2px solid #FFFFFF;
+    border-radius: 16px;
+    background-image: url("/images/unpressed.svg");
+    background-position: center; }
+
+/*# sourceMappingURL=gote.css.map */

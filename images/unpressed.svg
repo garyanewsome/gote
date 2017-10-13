@@ -1,0 +1,16 @@
+<svg width="160" height="160" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>unpressed</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(187 209)">
+<g id="unpressed">
+<use xlink:href="#path0_fill" transform="translate(-187 -209)" fill="url(#paint0_radial)"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(9.79717e-15 160 -160 9.79717e-15 160 -9.79717e-15)">
+<stop offset="0" stop-color="#FF7619"/>
+<stop offset="1" stop-color="#660000"/>
+</radialGradient>
+<path id="path0_fill" d="M 0 16C 0 7.16344 7.16344 0 16 0L 144 0C 152.837 0 160 7.16344 160 16L 160 144C 160 152.837 152.837 160 144 160L 16 160C 7.16344 160 0 152.837 0 144L 0 16Z"/>
+</defs>
+</svg>

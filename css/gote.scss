@@ -1,0 +1,29 @@
+$dark-text: #333333;
+$light-text: #FFFFFF;
+
+$background: #333333;
+
+body {
+  background-color: $background;
+  color: $light-text;
+}
+
+.gote-container {
+  width: 640px;
+  margin: auto auto;
+}
+
+.gote {
+  margin: 16px;
+  padding: 8px;
+  width: 560px;
+
+  .button {
+    width: 160px;
+    height: 160px;
+    border: 2px solid $light-text;
+    border-radius: 16px;
+    background-image: url('./images/unpressed.svg');
+    background-position: center;
+  }
+}
